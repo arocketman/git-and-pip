@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="git-and-pip",
+    name="gitandpip",
     version="0.0.1",
     author="arocketman",
     author_email="and.capuano@gmail.com",
